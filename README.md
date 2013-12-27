@@ -11,6 +11,7 @@ These are the apps monitored and the current development status:
 * Whatsapp - 100% - `root` required
 * SMS - 100%
 * Location - 100%
+* Remote Upload of Data - 50% - `root` required
 * Phone Logs - 0%
 * Contacts - 0%
 * Call Recording - 0%
